@@ -16,14 +16,21 @@ public class Ex2 {
 //		System.out.println(3.14);
 //		System.out.println('a');
 //		System.out.println("asdfq");
-		
-		System.out.print("오늘의 기온 :");
-		System.out.println(-5.3);
-		System.out.print("오늘의 기온 :");
-		System.out.println(1500);
-		System.out.print("오늘의 기온 :");
-		System.out.println('a');
 //		
+//		System.out.print("오늘의 기온 :");
+//		System.out.print(-5.3);
+//		System.out.println("'c");
+//		System.out.print("오늘의 기온 :");
+//		System.out.println(1500);
+//		System.out.print("오늘의 기온 :");
+//		System.out.println('a');
+////		자바에서 콤마같은 역할을 하는기호는 + 이다
+//		System.out.print("오늘의 기온 :" + -5.3 + "ㄹㄹ");
+//		
+		
+		char value=1;
+		int number=1;
+		double data='a';
 		
 		
 		
